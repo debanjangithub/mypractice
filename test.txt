@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is 98A7-6F2D
-
- Directory of F:\personal\Git-Project
-
-27-01-2020  12:15    <DIR>          .
-27-01-2020  12:15    <DIR>          ..
-27-01-2020  12:15                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  141,140,557,824 bytes free
+ My GitHub Setup "Debanjan Chakraborty"
